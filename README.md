@@ -2,7 +2,7 @@
 
 I am a **Full-Stack MERN Developer** passionate about building modern, scalable, and efficient web applications.<br/>I specialize in **MongoDB, Express.js, React.js, and Node.js**, crafting high-performance full-stack solutions.<br/>I love solving complex problems, optimizing performance, and staying up-to-date with the latest web technologies.  
 
-🚀 Currently working on a **MERN Stack SaaS Application**.<br/>
+🚀 Currently working on a **MERN Stack Application**.<br/>
 📚 Learning **Advanced MERN, WebSockets & DSA (Java)**.<br/>
 🤝 Looking to **collaborate** on open-source MERN projects.<br/>
 💬 Fun Fact: *I turn coffee into APIs & user-friendly UIs!*
