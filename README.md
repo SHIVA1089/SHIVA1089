@@ -32,15 +32,15 @@ I am a **Full-Stack MERN Developer** passionate about building modern, scalable,
 
 ---
 ## ☁️ Hosting / Deployment
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-%231B2A39.svg?style=for-the-badge&logo=railway&logoColor=white) ![Render](https://img.shields.io/badge/Render-%23222F3E.svg?style=for-the-badge&logo=render&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SHIVA6174&theme=neon&hide_border=true&include_all_commits=true&count_private=true) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVA6174&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SHIVA1089theme=neon&hide_border=true&include_all_commits=true&count_private=true) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVA1089&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SHIVA6174&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SHIVA1089&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 ---
 ## ✨ Dev Quote of the Day  
 <p align="center">
