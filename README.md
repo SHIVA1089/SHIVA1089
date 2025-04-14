@@ -69,9 +69,9 @@ I am a **Full-Stack WEB Developer** passionate about building modern, scalable, 
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVA1089&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVA1089&layout=compact&theme=highcontrast&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api?username=SHIVA1089&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true) 
+![](https://github-readme-stats.vercel.app/api?username=SHIVA1089&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&include_all_commits=true)
 
 ---
 
