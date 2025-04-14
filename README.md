@@ -1,4 +1,4 @@
-## Hi there, I'm SHIVA! 👋
+## Hi There, I'm SHIVA! 👋
 
 I am a **Full-Stack WEB Developer** passionate about building modern, scalable, and efficient web applications.<br/>I specialize in **MongoDB, Express.js, React.js, and Node.js**, crafting high-performance full-stack solutions.<br/>I love solving complex problems, optimizing performance, and staying up-to-date with the latest web technologies.  
 
@@ -11,10 +11,7 @@ I am a **Full-Stack WEB Developer** passionate about building modern, scalable, 
 
 ## 🌐 Connect with Me:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shiva_bugslayer)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/psivaiah6174)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SHIVA6174124345)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:psivaiah6174@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shiva_bugslayer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/psivaiah6174) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SHIVA6174124345) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:psivaiah6174@gmail.com)
 
 ---
 
