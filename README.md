@@ -34,8 +34,7 @@ I am a **Full-Stack WEB Developer** passionate about building modern, scalable, 
 ![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white) 
 ![Bcrypt.js](https://img.shields.io/badge/Bcrypt.js-%2300ACC1.svg?style=for-the-badge) 
 ![WebSockets](https://img.shields.io/badge/WebSockets-%23007ACC.svg?style=for-the-badge) 
-![CORS](https://img.shields.io/badge/CORS-%23007ACC.svg?style=for-the-badge)  
-![Nodemon](https://img.shields.io/badge/Nodemon-%2376D04B.svg?style=for-the-badge)  
+![CORS](https://img.shields.io/badge/CORS-%23007ACC.svg?style=for-the-badge) ![Nodemon](https://img.shields.io/badge/Nodemon-%2376D04B.svg?style=for-the-badge)  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Servlets](https://img.shields.io/badge/Servlets-%23007ACC.svg?style=for-the-badge) 
 ![JSP](https://img.shields.io/badge/JSP-%23007ACC.svg?style=for-the-badge) 
@@ -74,8 +73,6 @@ I am a **Full-Stack WEB Developer** passionate about building modern, scalable, 
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVA1089&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=SHIVA1089&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true) 
 
